@@ -1,6 +1,6 @@
 {
   "version": "epheia-trust-anchors-1",
-  "generation": 1,
+  "generation": 3,
   "keys": [
     {
       "kid": "umcee-key-1",
@@ -20,10 +20,10 @@
   ],
   "image_digest_allowlist": [
     {
-      "image_digest": "sha256:90385e69bde35fcc434d25765fa057f481d1366af9c2091aeb7716d58d290de1",
+      "image_digest": "sha256:3ed98ef58e6c9cc5a04d509a506e33d07b76063625bf63f3ee671dfd723b8265",
       "image_name": "epheia-umcee",
       "version": "tier-2-stub",
-      "published_at": "2026-05-20T16:40:23Z"
+      "published_at": "2026-05-20T17:29:49Z"
     }
   ]
 }
