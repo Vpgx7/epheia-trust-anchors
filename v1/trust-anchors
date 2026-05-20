@@ -1,21 +1,21 @@
 {
   "version": "epheia-trust-anchors-1",
-  "generation": 3,
+  "generation": 4,
   "keys": [
     {
       "kid": "umcee-key-1",
       "role": "enclave",
-      "pem": "-----BEGIN PUBLIC KEY-----\\nMHYwEAYHKoZIzj0CAQYFK4EEACIDYgAEOgCVFMXqmCLmgTmS79EtUo9WW4Lbp4/J\\n4G/KGRkEmIopQd6bO20bRHDdfrdR7iRRWdj2wJGUYXVVXMZrfsSbCXklHDV8EYFb\\nh8LYbM4pbvW/GXbwKIQcXvzATdOBLn23\\n-----END PUBLIC KEY-----\\n"
+      "pem": "-----BEGIN PUBLIC KEY-----\nMHYwEAYHKoZIzj0CAQYFK4EEACIDYgAEOgCVFMXqmCLmgTmS79EtUo9WW4Lbp4/J\n4G/KGRkEmIopQd6bO20bRHDdfrdR7iRRWdj2wJGUYXVVXMZrfsSbCXklHDV8EYFb\nh8LYbM4pbvW/GXbwKIQcXvzATdOBLn23\n-----END PUBLIC KEY-----\n"
     },
     {
       "kid": "hypervisor-key-1",
       "role": "hypervisor",
-      "pem": "-----BEGIN PUBLIC KEY-----\\nMHYwEAYHKoZIzj0CAQYFK4EEACIDYgAEv9IfZAsD2RvhUaqVUcgJX9eGEzXIQyt2\\nljoW7euFMnpFK6WoV8m74tl2n679HdA2xSDqR5AmKLFNAJB9i38DZtHKOWEDq3EP\\nPusAlnMx3cP8HRNBaWeCOEcHNXuvQaYG\\n-----END PUBLIC KEY-----\\n"
+      "pem": "-----BEGIN PUBLIC KEY-----\nMHYwEAYHKoZIzj0CAQYFK4EEACIDYgAEv9IfZAsD2RvhUaqVUcgJX9eGEzXIQyt2\nljoW7euFMnpFK6WoV8m74tl2n679HdA2xSDqR5AmKLFNAJB9i38DZtHKOWEDq3EP\nPusAlnMx3cP8HRNBaWeCOEcHNXuvQaYG\n-----END PUBLIC KEY-----\n"
     },
     {
       "kid": "egress-gate-key-1",
       "role": "receipt",
-      "pem": "-----BEGIN PUBLIC KEY-----\\nMHYwEAYHKoZIzj0CAQYFK4EEACIDYgAEwn1jFrgYEQo5zcCL/kwI8CwbHw1I9Sr6\\nezy6YUbICsFbX4e0Ky062e2RqMGtCy4QrnyXWQNybK1TA5XuTWfPww/NBd6sAeZq\\neZuS1kgsX7AdebiNpgCE30Dp6FAXL7EF\\n-----END PUBLIC KEY-----\\n"
+      "pem": "-----BEGIN PUBLIC KEY-----\nMHYwEAYHKoZIzj0CAQYFK4EEACIDYgAEwn1jFrgYEQo5zcCL/kwI8CwbHw1I9Sr6\nezy6YUbICsFbX4e0Ky062e2RqMGtCy4QrnyXWQNybK1TA5XuTWfPww/NBd6sAeZq\neZuS1kgsX7AdebiNpgCE30Dp6FAXL7EF\n-----END PUBLIC KEY-----\n"
     }
   ],
   "image_digest_allowlist": [
@@ -23,7 +23,7 @@
       "image_digest": "sha256:3ed98ef58e6c9cc5a04d509a506e33d07b76063625bf63f3ee671dfd723b8265",
       "image_name": "epheia-umcee",
       "version": "tier-2-stub",
-      "published_at": "2026-05-20T17:29:49Z"
+      "published_at": "2026-05-20T20:28:45Z"
     }
   ]
 }
