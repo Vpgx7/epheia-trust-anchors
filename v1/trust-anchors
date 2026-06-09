@@ -1,6 +1,6 @@
 {
   "version": "epheia-trust-anchors-1",
-  "generation": 66,
+  "generation": 67,
   "keys": [
     {
       "kid": "hypervisor-key-1",
@@ -48,6 +48,12 @@
       "image_name": "umcee",
       "version": "0.1.0",
       "published_at": "2026-06-09T07:11:58.047350Z"
+    },
+    {
+      "image_digest": "sha256:10d02cf3d8480463f3f0007450f1ecf81f55063ceab36db579044de609b02fba",
+      "image_name": "umcee",
+      "version": "0.1.0",
+      "published_at": "2026-06-09T09:03:52.140492Z"
     }
   ],
   "nvidia_root_ca": {
