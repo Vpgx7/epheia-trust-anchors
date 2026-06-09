@@ -1,6 +1,6 @@
 {
   "version": "epheia-trust-anchors-1",
-  "generation": 67,
+  "generation": 68,
   "keys": [
     {
       "kid": "hypervisor-key-1",
@@ -19,12 +19,6 @@
     }
   ],
   "image_digest_allowlist": [
-    {
-      "image_digest": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
-      "image_name": "umcee",
-      "version": "0.1.0",
-      "published_at": "2026-05-29T15:06:01.822626Z"
-    },
     {
       "image_digest": "sha256:d9d5c5e79976043aaaf1e332104d31a96c2d93cebc74a858dfb45f3c085e5a1a",
       "image_name": "umcee",
