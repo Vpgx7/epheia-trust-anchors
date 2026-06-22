@@ -11,6 +11,21 @@
         "timestamp": "2026-06-22T18:01:12Z",
         "tree_size": 1
       }
+    },
+    {
+      "consistency_proof_from_prev": [
+        "fc1f79dc6b2124fa3d41af01a4d87a2705172de1547ba6485a5580e42dbf74e3",
+        "235f7ec815fe5a048a5224883efba4b938af2e2de52638cebae26646ecb2821c"
+      ],
+      "sth": {
+        "kid": "egress-gate-key-1",
+        "log_id": "epheia-egress-gate",
+        "root": "6bcc723d3b7012e4bf96c527552530e5f8e1560dd14a65f60a4676046ca94254",
+        "signature": "ecdsa-p384-sha384:MGYCMQCgmE_EhsYE6lue5fiMZBZdPuzlAg2BmSAbTu6HhJcTTjshbforWUr57WDBA31UoCMCMQDhwcbNPxw81EviyLxkMxT5tahHs3P8p9htPsNLOknwhXXO_KzbUY6XynavhisbRVU",
+        "sth_version": "epheia-sth-1",
+        "timestamp": "2026-06-22T18:40:48Z",
+        "tree_size": 3
+      }
     }
   ],
   "log_id": "epheia-egress-gate"
