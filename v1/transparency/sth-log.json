@@ -1,0 +1,17 @@
+{
+  "entries": [
+    {
+      "consistency_proof_from_prev": [],
+      "sth": {
+        "kid": "egress-gate-key-1",
+        "log_id": "epheia-egress-gate",
+        "root": "001ccdc0a384dab394d5d09d9c1c7b3bca431b4c9707de76b1e5a1e6152f6a16",
+        "signature": "ecdsa-p384-sha384:MGUCMQCENdsl-nT8cnZZ4VeEwAOEl8uHNK1yRasC3ix_I5hNP1689WHybx3bRz_QDgQaB1ECMCb322oZKNqJCRbDRuhpU3ABbM2aL9jVWxZ-i7Oyh4jw2ew2oIjsCXnEp2H-RIg47A",
+        "sth_version": "epheia-sth-1",
+        "timestamp": "2026-06-22T18:01:12Z",
+        "tree_size": 1
+      }
+    }
+  ],
+  "log_id": "epheia-egress-gate"
+}
