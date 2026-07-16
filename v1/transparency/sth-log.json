@@ -1880,6 +1880,20 @@
         "timestamp": "2026-07-16T10:37:33Z",
         "tree_size": 256
       }
+    },
+    {
+      "consistency_proof_from_prev": [
+        "b748c0b505320824b27db99961af16f760f3833265d354c02078f34b5f31cc60"
+      ],
+      "sth": {
+        "kid": "epheia-appliance-log-1",
+        "log_id": "epheia-appliance-gate",
+        "root": "2ee36daf2214653b1c8c999dde2d2c67d0139e8e30a94459516a88411e501127",
+        "signature": "ecdsa-p384-sha384:MGUCMQCnXfywFCZaIBO8VFAplWrMxBf-afT8Z7ogyIm6GntqHCF-WPvJZnwuEop3xncPx24CMEmAtZ-w5TI9FcxX9JOX2My7PtZ6k0Af-Fr_LP5mwQ9M8S92FJSLyjfAfYH7kul1OA",
+        "sth_version": "epheia-sth-1",
+        "timestamp": "2026-07-16T11:30:52Z",
+        "tree_size": 257
+      }
     }
   ],
   "log_id": "epheia-appliance-gate"
