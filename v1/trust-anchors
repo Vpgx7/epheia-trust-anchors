@@ -1,6 +1,6 @@
 {
   "version": "epheia-trust-anchors-1",
-  "generation": 91,
+  "generation": 92,
   "keys": [
     {
       "kid": "hypervisor-key-1",
@@ -128,7 +128,8 @@
         "ebbe63e10e2f4a6d85e54defc3c927b8c2f64ac8e4e8cc2cfcad3c821534f568",
         "b0de01cb181e06bdb8977938c688572c3e8e1f8ffd91e0107a5d64357ecc1f90",
         "3c9b014fbc56e415602d6ff049db8133585a725e417979b26a2782c35818e680",
-        "c47f2012d364ec749cec128f0716f8b2e6608d60651a1aaedc3a0b56b037b43b"
+        "c47f2012d364ec749cec128f0716f8b2e6608d60651a1aaedc3a0b56b037b43b",
+        "434a24c76d55917a21c83ded8271181fc4747790c9349e160a430ed905609d17"
       ],
       "7": [
         "6ca73c966702732328728dcb6bf2431de2901c3b391e793f21f65f029bc58002",
