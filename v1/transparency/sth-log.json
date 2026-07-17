@@ -2231,6 +2231,24 @@
         "timestamp": "2026-07-17T13:30:50Z",
         "tree_size": 300
       }
+    },
+    {
+      "consistency_proof_from_prev": [
+        "d8d05c2ed87002c1e38461d5b50c696168e7888bc6d131822a7d76d8304716bc",
+        "8d1e08e9b415892241f0d61c2f8228d5a5be27f2b0e783cb72ae5d180da11a29",
+        "d9d9b48e1745bf69f23400a7975948810f6053bbdf93c87c1725aea16e3a3cee",
+        "6f4c4a9a46be0e78511637eefa5211e7ddb555f3c9b2cbd6ab5aa5fb6c0b8af3",
+        "8855abe7472835f0ba8b40938dc514c1e2e1c30236232208ec686e9dde1bacd6"
+      ],
+      "sth": {
+        "kid": "epheia-appliance-log-1",
+        "log_id": "epheia-appliance-gate",
+        "root": "52396208220dc2657003f424112335a7cc51cb787fffe672ea1fb78683115965",
+        "signature": "ecdsa-p384-sha384:MGUCMFaA0-H1DZnZp_Of7vwcW9Uf4WT0IeXYLcDekKWHNVe5YYutl_m1TzG0h8xUPZayDQIxAIf09fbd4msEY3-nWnQ-d4V4mmvnna5PEcM8Tr7CwE07hsje5tTL-YmprRRICa83zQ",
+        "sth_version": "epheia-sth-1",
+        "timestamp": "2026-07-17T14:31:00Z",
+        "tree_size": 301
+      }
     }
   ],
   "log_id": "epheia-appliance-gate"
