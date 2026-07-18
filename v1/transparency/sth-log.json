@@ -2672,6 +2672,26 @@
         "timestamp": "2026-07-18T15:19:22Z",
         "tree_size": 339
       }
+    },
+    {
+      "consistency_proof_from_prev": [
+        "263facf25393919df60a2dd2386cad3e5c7fab7d4abd736df84484a966fcfb32",
+        "6789ec8fb35a5ec14336206b555fe0f33f82fcb58664ef0b6392a31d3eca9962",
+        "9da5dc32060659366d40675218dc0ed5611eed1791c952ecb011cfaace02827a",
+        "ced780f0c2d23bcc197f4d529cab981572eada4adaf3e00bd7d25ec5714ad711",
+        "e8058034060b4c22f9c34b0628edbea503c88705d4eb9f313dd0aabc9205de26",
+        "efad5e9754697b43d2d335bb67b36cd09869e1a4ea9553f53c64d90a68c9426d",
+        "8855abe7472835f0ba8b40938dc514c1e2e1c30236232208ec686e9dde1bacd6"
+      ],
+      "sth": {
+        "kid": "epheia-appliance-log-1",
+        "log_id": "epheia-appliance-gate",
+        "root": "c7631ce8840ae0d86892bd961828a66ee247866f8218a0f452b2fb301970527c",
+        "signature": "ecdsa-p384-sha384:MGUCMAQnlxE-vnLFHTTlgzmYkv6p3ueIH32gPvQQeTYLqvKsPpNE3Aq3Mp7krpal9a_9IwIxAKhzL1iNueFZpptPpnc8mjr6W_bR7Y-kfWOnoEx5NbNabSXIAEPVUPH-SbdmytLEbg",
+        "sth_version": "epheia-sth-1",
+        "timestamp": "2026-07-18T16:16:57Z",
+        "tree_size": 342
+      }
     }
   ],
   "log_id": "epheia-appliance-gate"
