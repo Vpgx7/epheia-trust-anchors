@@ -1,9 +1,9 @@
 {
   "kid": "epheia-appliance-log-1",
   "log_id": "epheia-appliance-gate",
-  "root": "ef08d407f70b755d5effe5112180046bce2b5a4a0fec0e55bb8689dfcf59de08",
-  "signature": "ecdsa-p384-sha384:MGUCMQCMdyw0j03s1XFGiECjKIVtWoCmcdtPz9-oMRI4SJIMRuwy9trzJN2fQeOfoXvNpKQCMFNA4wqPHRou4RKfMJN7GZMR9m9_K7F3Ih2jd89PWmB51z3k1z800h32Wa3yvqSqIw",
+  "root": "0b9d7a1d8d8e7401b4c31e93e493ed01ffb89416805a827d76f42eba465fa8ad",
+  "signature": "ecdsa-p384-sha384:MGUCMHpratK-CSO0H0hqepfNw_lkd2r8Yy9v-wMxTOo-2taDTAQpaQ3hMxhB22ihyk6oKQIxAKVr1JYCwDgd9Cp3smqSIIA2vOrbauIN0oLAYmNrd5zDM8WVfadB1jY_YSq_RO5JaQ",
   "sth_version": "epheia-sth-1",
-  "timestamp": "2026-08-04T15:45:59Z",
-  "tree_size": 396
+  "timestamp": "2026-08-04T16:35:27Z",
+  "tree_size": 397
 }
